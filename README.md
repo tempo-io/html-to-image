@@ -1,5 +1,12 @@
 <h1 align="center">html-to-image</h1>
 
+> **<h3>ℹ️ Note</h3>**
+> 
+> This repository is a fork of the html-to-image package originally created by bubkoo.
+> Since the original package is no longer actively maintained, we maintain this fork.
+>
+> It is currently used in the Custom Charts project.  https://github.com/tempo-io/custom-charts
+
 <p align="center"><strong>✂️ Generates an image from a DOM node using HTML5 canvas and SVG.</strong></p>
 
 <p align="center">Fork from <a href="https://github.com/tsayen/dom-to-image" rel="nofollow">dom-to-image</a> with more maintainable code and some new features.</p>
