@@ -6,6 +6,14 @@
 > Since the original package is no longer actively maintained, we maintain this fork.
 >
 > It is currently used in the Custom Charts project.  https://github.com/tempo-io/custom-charts
+> 
+> 
+> Creating a package:
+> - `npm i`
+> - `npm run build`
+> - `npm pack` - creates a tarball in the current directory
+>
+> The package can be included in other projects using `npm install <path-to-tarball>`
 
 <p align="center"><strong>✂️ Generates an image from a DOM node using HTML5 canvas and SVG.</strong></p>
 
