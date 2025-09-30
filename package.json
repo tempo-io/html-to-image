@@ -1,7 +1,7 @@
 {
   "name": "html-to-image",
-  "version": "1.11.13",
-  "description": "Generates an image from a DOM node using HTML5 canvas and SVG.",
+  "version": "1.11.13-20250930",
+  "description": "Generates an image from a DOM node using HTML5 canvas and SVG. Includes bug fixes for Custom Charts team.",
   "main": "lib/index.js",
   "module": "es/index.js",
   "unpkg": "dist/html-to-image.js",
